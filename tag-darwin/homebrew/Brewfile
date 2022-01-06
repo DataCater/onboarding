@@ -1,0 +1,59 @@
+# Taps
+tap "homebrew/bundle"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "thoughtbot/formulae"
+
+# Brew infrastructure apps
+brew "argocd"
+brew "awscli"
+brew "helm"
+brew "kubernetes-cli"
+brew "minikube"
+brew "terraform"
+cask "google-cloud-sdk"
+
+# Brew developer apps
+brew "git-extras"
+brew "git-lfs"
+brew "git-tig"
+brew "git"
+brew "hadolint"
+brew "hub"
+brew "jq"
+brew "mkcert"
+brew "nss"
+brew "shellcheck"
+
+# Brew CLI apps
+brew "autojump"
+brew "coreutils" # Those that come with macOS are outdated
+brew "ctags"
+brew "curl"
+brew "dockutil"
+brew "gnu-tar"
+brew "htop-osx"
+brew "pstree"
+brew "rcm"
+brew "rename"
+brew "rsync"
+brew "tree"
+brew "uncrustify"
+brew "vim"
+brew "watch"
+brew "wget"
+brew "zsh"
+
+# Brew Security Tools
+brew "pwgen"
+
+# App casks
+cask "docker"
+cask "iterm2"
+cask "slack"
+cask "zoom"
+
+# Font casks
+cask "font-meslo-lg-nerd-font"

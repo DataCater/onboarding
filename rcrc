@@ -1,0 +1,4 @@
+EXCLUDES="Brewfile LICENSE README.md"
+DOTFILES_DIRS="$HOME/dotfiles"
+TAGS="darwin"
+SYMLINK_DIRS=""
