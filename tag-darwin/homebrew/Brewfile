@@ -50,6 +50,7 @@ brew "zsh"
 brew "pwgen"
 
 # App casks
+cask "1password"
 cask "docker"
 cask "iterm2"
 cask "slack"
