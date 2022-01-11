@@ -16,6 +16,7 @@ brew "terraform"
 cask "google-cloud-sdk"
 
 # Brew developer apps
+brew "bats-core"
 brew "git-extras"
 brew "git-lfs"
 brew "git-tig"
