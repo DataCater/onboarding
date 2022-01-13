@@ -9,6 +9,7 @@ tap "thoughtbot/formulae"
 # Brew infrastructure apps
 brew "argocd"
 brew "awscli"
+brew "azure-cli"
 brew "helm"
 brew "kubernetes-cli"
 brew "minikube"
