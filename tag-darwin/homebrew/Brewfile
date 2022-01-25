@@ -15,6 +15,7 @@ brew "kubernetes-cli"
 brew "minikube"
 brew "terraform"
 cask "google-cloud-sdk"
+cask "openstackclient"
 
 # Brew developer apps
 brew "bats-core"
